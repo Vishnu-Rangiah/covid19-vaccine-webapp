@@ -94,3 +94,11 @@ Tasks:
 - Setup development environment for web framework
 - Setup deployment pipeline
 - webcam
+
+### Vishnu Rangiah
+
+#### Done
+- Interative Graph Visualizations 
+- Interactive Cumulative Bar Graphs 
+    - Vaccine Counts 
+    - Death Counts
