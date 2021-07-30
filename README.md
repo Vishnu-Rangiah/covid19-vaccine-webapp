@@ -1,6 +1,9 @@
-# ecs171-group10
+# Covid 19 Vaccine Web Application
 
-Due May 26
+Provides interactive visualizations on Vaccine Counts in America. Predicts the possible symptoms and outcomes from a Covid 19 vaccine based on age, sex, vaccine manufacturer. 
+
+Video Demo: https://youtu.be/cnnKWUN0N3w
+App Demo: 
 
 ## Project Setup
 0. Create pipenv and activate
