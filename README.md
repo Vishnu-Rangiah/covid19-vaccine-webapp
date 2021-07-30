@@ -3,7 +3,8 @@
 Provides interactive visualizations on Vaccine Counts in America. Predicts the possible symptoms and outcomes from a Covid 19 vaccine based on age, sex, vaccine manufacturer. 
 
 Video Demo: https://youtu.be/cnnKWUN0N3w
-App Demo: 
+
+App Demo: https://share.streamlit.io/poroia/ecs171-group10/main/src/app.py
 
 ## Project Setup
 0. Create pipenv and activate
